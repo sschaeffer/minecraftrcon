@@ -1,5 +1,6 @@
 """
 File: mcrcon.py
+Time/Date: Mar 30 07:53
 Github: https://github.com/barneygale/MCRcon
 Description: This is the primary minecraft rcon implementation from barneygale
 """
